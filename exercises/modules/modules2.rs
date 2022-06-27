@@ -4,12 +4,11 @@
 // Make me compile! Execute `rustlings hint modules2` for hints :)
 
 // I AM NOT DONE
-
 mod delicious_snacks {
 
     // TODO: Fix these use statements
-    use self::fruits::PEAR as ???
-    use self::veggies::CUCUMBER as ???
+    // use self::fruits::PEAR as String;
+    // use self::veggies::CUCUMBER as String;
 
     mod fruits {
         pub const PEAR: &'static str = "Pear";
